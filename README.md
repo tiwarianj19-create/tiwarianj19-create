@@ -38,8 +38,8 @@ https://drive.google.com/drive/folders/1qbjh8AplK_Yo-3dGIZ9wMXHaHWkweRZB?usp=sha
 
 ## 🔗 Connect With Me
 - **LinkedIn:** [www.linkedin.com/in/anjali-tiwari19](url)
-- **GitHub:** [Add your GitHub profile URL](YOUR_GITHUB_URL)
-- **Keggle:**
+
+- **Keggle:**[https://www.kaggle.com/work](url)
 ---
 
 *Always curious, always learning, and looking for opportunities to turn ideas into meaningful outcomes.*
